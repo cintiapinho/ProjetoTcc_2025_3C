@@ -53,6 +53,9 @@ https://cintiapinho.github.io/ProjetoTcc_2026_3C
 ### 🤝 Trabalho em Equipe
 * 🛠️ [**Como trabalhar em equipe no GitHub**](https://docs.google.com/presentation/d/1b2kKsxiSl19v1xnxYJq9iMwTD9wgmhqC/edit?usp=sharing)
 
+### ⚖️ Como hospedar um sistema com Banco de Dados - Aula Caetano
+* [Como hospedar um sistema com Banco de Dados](https://drive.google.com/file/d/1Z4x-q1baLsOkaLXQsIqIry-NaX_goc6v/view?usp=sharing)
+
 ### ⚖️ Jurídico e Documentação
 * [Modelo de Termos de Uso e Privacidade](https://docs.google.com/document/d/1xcyEFmdOxR2F-OdNQHcy8MEmkWq5vFz-MoCBqxr7WEc/edit?usp=sharing)
 
