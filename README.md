@@ -59,7 +59,12 @@ https://cintiapinho.github.io/ProjetoTcc_2026_3C
 ### ⚖️ Jurídico e Documentação
 * [Modelo de Termos de Uso e Privacidade](https://docs.google.com/document/d/1xcyEFmdOxR2F-OdNQHcy8MEmkWq5vFz-MoCBqxr7WEc/edit?usp=sharing)
 
+---
 
+## 🎤 Aspectos Estratégicos
+* 🎨 [**Canvas - Onde criar**](https://canvas-apps.pr.sebrae.com.br/)
+
+ 
 ---
 
 ## 🎤 Apresentações e Modelos
